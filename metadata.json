@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Circuit Breaker",
+  "description": "An immersive arcade puzzle-action game powered by a novel quantum resonance routing algorithm, featuring AI-generated challenges, procedural Web Audio synthesizer, and a complete Itch.io game bundle export hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
